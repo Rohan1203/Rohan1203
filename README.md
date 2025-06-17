@@ -32,6 +32,9 @@
 - RESTful API Design, JSON, MVC, OOP, Agile
 
 ---
+📫 **Let's connect!**
+- [🔗 LinkedIn](https://www.linkedin.com/in/rohandass/)
+- [📸 Instagram](https://www.instagram.com/rohan.d.a.s/)
 
 📫 **Feel free to connect or collaborate** — I’m always up for building cool things!
 
