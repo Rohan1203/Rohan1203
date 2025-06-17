@@ -10,23 +10,12 @@
 
 ### ⚡ Tech Stack & Interests
 
-### Programming Languages
-👨‍💻 Java, Go, Python, HTML/CSS, SQL
-
-### Scripting
-💻 JavaScript, Groovy
-
-### Frameworks
-🌱 Jersey, JAX-RS, Spring Boot, Flask
-
-### DevOps & Cloud
-☁️ Docker, Kubernetes, GitHub Actions, Kafka, Helm, Kustomize, Terraform, Logstash, Filebeat, CI/CD, Jenkins, GitLab CI, Prometheus, Grafana, Maven, GCP, AWS
-
-### Developer Tools
-🛠️ Git, VSCode, Eclipse, NetBeans, IntelliJ
-
-### Other
-🔗 RESTful API design, JSON, MVC, OOP, Agile
+**Programming Languages** 👨‍💻: Java, Go, Python, HTML/CSS, SQL  
+**Scripting** 💻: JavaScript, Groovy  
+**Frameworks** 🌱: Jersey, JAX-RS, Spring Boot, Flask  
+**DevOps & Cloud** 🐳☁️: Docker, Kubernetes, GitHub Actions, Kafka, Helm, Kustomize, Terraform, Logstash, Filebeat, CI/CD, Jenkins, GitLab CI, Prometheus, Grafana, Maven, GCP, AWS  
+**Developer Tools** 🛠️: Git, VSCode, Eclipse, NetBeans, IntelliJ  
+**Other** 🔗: RESTful API design, JSON, MVC, OOP, Agile
 ---
 
 📫 Feel free to connect or collaborate — I’m always up for building cool things!
