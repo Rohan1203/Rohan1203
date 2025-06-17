@@ -7,14 +7,13 @@
 🛠️ I enjoy working at the intersection of infrastructure and application — whether it's writing CLIs, automating deployments, or optimizing service performance.
 
 ---
-
 ### ⚡ Tech Stack & Interests
 
 👨‍💻 **Programming Languages** : Java, Go, Python, HTML/CSS, SQL
-💻 **Scripting** : JavaScript, Groovy  
+💻 **Scripting** : JavaScript, Groovy
 🌱 **Frameworks** : Jersey, JAX-RS, Spring Boot, Flask  
-☁️ **Infra & Devops** : Docker, Kubernetes, GitHub Actions, Kafka, Helm, Kustomize, Terraform, Logstash, Filebeat, CI/CD, Jenkins, GitLab CI, Prometheus, Grafana, Maven, GCP, AWS  
-🛠️ **Developer Tools** : Git, VSCode, Eclipse, NetBeans, IntelliJ  
+☁️ **Infra & Devops** : Docker, Kubernetes, GitHub Actions, Kafka, Helm, Kustomize, Terraform, Logstash, Filebeat, CI/CD, Jenkins, GitLab CI, Prometheus, Grafana, Maven, GCP, AWS
+🛠️ **Developer Tools** : Git, VSCode, Eclipse, NetBeans, IntelliJ
 🔗 **Other** : RESTful API design, JSON, MVC, OOP, Agile
 ---
 
