@@ -4,17 +4,34 @@
 
 🚀 With experience spanning **system design**, **backend development**, and **DevOps**, I love crafting tools and platforms that are fast, reliable, and maintainable.
 
-🛠️ I enjoy working at the intersection of infrastructure and application — whether it's writing CLIs, automating deployments, or optimizing service performance.
+🛠️ I thrive at the intersection of infrastructure and application — whether it's writing CLIs, automating deployments, or optimizing service performance.
 
 ---
+
 ### ⚡ Tech Stack & Interests
 
-👨‍💻 **Programming Languages** : Java, Go, Python, HTML/CSS, SQL
-💻 **Scripting** : JavaScript, Groovy
-🌱 **Frameworks** : Jersey, JAX-RS, Spring Boot, Flask  
-☁️ **Infra & Devops** : Docker, Kubernetes, GitHub Actions, Kafka, Helm, Kustomize, Terraform, Logstash, Filebeat, CI/CD, Jenkins, GitLab CI, Prometheus, Grafana, Maven, GCP, AWS
-🛠️ **Developer Tools** : Git, VSCode, Eclipse, NetBeans, IntelliJ
-🔗 **Other** : RESTful API design, JSON, MVC, OOP, Agile
+#### 👨‍💻 Programming Languages
+- Go, Java, Python, SQL, HTML/CSS
+
+#### 💻 Scripting
+- JavaScript, Groovy
+
+#### 🌱 Frameworks
+- Spring Boot, Jersey, JAX-RS, Flask
+
+#### ☁️ Infrastructure & DevOps
+- Docker, Kubernetes, Helm, Kustomize, Terraform  
+- GitHub Actions, GitLab CI, Jenkins, CI/CD  
+- Prometheus, Grafana, Logstash, Filebeat, Kafka  
+- AWS, GCP
+
+#### 🛠️ Developer Tools
+- Git, VSCode, IntelliJ, Eclipse, NetBeans, Maven
+
+#### 🔗 Other
+- RESTful API Design, JSON, MVC, OOP, Agile
+
 ---
 
-📫 Feel free to connect or collaborate — I’m always up for building cool things!
+📫 **Feel free to connect or collaborate** — I’m always up for building cool things!
+
